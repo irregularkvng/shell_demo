@@ -1,1 +1,1 @@
-# Readme for the shell demo project
+Edited the readmefile \'PeterOmnyi\'
