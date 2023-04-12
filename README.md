@@ -1,1 +1,1 @@
-# Readme for the shell demo project
+This is the readme for the shell project edited by another user (peteromnyi)
